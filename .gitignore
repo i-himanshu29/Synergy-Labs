@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# Environment Variables
+.env
+
+# MongoDB
+/data/db
+dump/
+
+# Build files
+dist/
+build/
+
+# React
+*.cache
+*.lock
+
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Operating system files
+Thumbs.db
+.DS_Store
