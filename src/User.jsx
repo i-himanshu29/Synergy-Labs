@@ -102,7 +102,7 @@ const NewUserForm = () => {
   return (
     <div className="container mx-auto px-4">
       <ToastContainer /> {/* Toast container for displaying toast notifications */}
-      <h1 className="text-2xl font-bold text-center my-4">User Management</h1>
+      <h1 className="text-2xl font-bold text-center my-4">Create User</h1>
 
       {/* Button to open modal */}
       <button
